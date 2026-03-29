@@ -1,0 +1,42 @@
+# 🤖 ELI10 AI – Explain Like I’m 10
+
+## 📌 Problem Statement
+Students often struggle to understand complex technical topics because explanations are too complicated.
+
+Most AI tools like ChatGPT give answers, but:
+- They are not always simple enough
+- They are inconsistent in explanation level
+- They require internet access
+
+---
+
+## 💡 Solution
+ELI10 AI is a Small Language Model (SLM) built using Smolify that explains complex topics in a simple way, as if explaining to a 10-year-old.
+
+---
+
+## 🧠 Why Specialized Model (SLM) over General LLM?
+
+Instead of using a general AI like ChatGPT, we built a specialized model because:
+
+### ✅ 1. Consistent Simplicity
+The model is trained only to simplify concepts → always beginner-friendly
+
+### ✅ 2. Lightweight & Fast
+Runs efficiently on CPU without needing internet
+
+### ✅ 3. Focused Task
+Does one job perfectly: explaining in simple language
+
+### ✅ 4. Reliable Output
+Always gives clear and short explanations
+
+---
+
+## ⚙️ Tech Stack
+- Smolify (SLM fine-tuning)
+- Python
+
+---
+
+## 📂 Project Structure
